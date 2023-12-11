@@ -6,9 +6,6 @@ Firearm-related fatalities have been a pressing issue in the United States, prom
 - [Table of Contents](#table-of-contents)
 - [Requirements](#requirements)
 - [Dataset](#dataset)
-- [Features](#features)
-- [Configuration](#configuration)
-- [Output](#output)
 - [Authors](#authors)
 
 
